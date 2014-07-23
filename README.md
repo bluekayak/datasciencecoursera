@@ -21,3 +21,6 @@ Conventions for a markdown file. Click on the [Code] tab to see this file in nat
 
 
 #### How about four hash marks for a subheader?
+* When you make changes, they are highlighted with a margin line.
+* The changes stay marked until you click on "Commit changes"
+* Then the changes disappear.
