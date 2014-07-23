@@ -15,5 +15,8 @@ Conventions for a markdown file. Click on the [Code] tab to see this file.
 ### What if you have three hash marks?
 * One asterisk
 ** Two asterisks
-** Two asterisks a second time
+** Two asterisks a second time -- not what I expected
 * Back to just one asterisk
+
+
+#### How about four hash marks for a subheader?
